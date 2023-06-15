@@ -7,8 +7,6 @@ import ArrayMethods from './components/Array/ArrayMethods';
 
 function App() {
 
-
-
   return (
     <div className="App">
       <BrowserRouter>
